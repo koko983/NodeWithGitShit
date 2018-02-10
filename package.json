@@ -1,0 +1,23 @@
+{
+  "name": "nodewithgitshit",
+  "version": "1.0.0",
+  "description": "test npm integration with git and github",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koko983/NodeWithGitShit.git"
+  },
+  "author": "Abdulrahman Al-Mowafy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koko983/NodeWithGitShit/issues"
+  },
+  "homepage": "https://github.com/koko983/NodeWithGitShit#readme",
+  "dependencies": {
+    "connect": "^3.6.5",
+    "serve-static": "^1.13.2"
+  }
+}
